@@ -1,12 +1,12 @@
 @import "variables";
 
 .pf-seek-bar-preview {
-    width: 120px;
-    height: 69px;
+    width: 320px;
+    height: 240px;
     position: absolute;
     color:white;
-    background-color: $pf-seek-bar-preview-background-colour;
-    margin-top: -75px;
+    background-color: transparent;
+    margin-top: -190px;
     left: 0;
     display: block;
     pointer-events: none;
